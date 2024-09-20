@@ -1,0 +1,8 @@
+polars
+pandas
+pylint
+tabulate
+markdown2
+matplotlib
+pyarrow
+black
